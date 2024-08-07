@@ -1,2 +1,3 @@
-# Examen-de-Simulacion-3
-En este repositorio estarán contenidos los resultados de la realización del Examen 3 con el profesor odjaramilloz de Simulación de Procesos Financieros de Ing. Financiera en ITESO
+# Simulation Modelling Exam 3
+This repository will contain the results of the completion of Exam 3 with Professor Odjaramilloz of Simulation of Financial Processes of Financial Engineering at ITESO
+
